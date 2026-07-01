@@ -1,0 +1,393 @@
+canonical_identifier: bkk:krp/KR6n0140/v1
+canonical_location: https://kanripo.org/bkk/KR6n0140/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 八識規矩論義
+  identifiers:
+    alt_id:
+    - X55n0898
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0898.xml
+    old_id: X55n0898
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0140_000.yaml, hash: 'sha256:6fe2829858f336940521ff5c65809a61abe3b246f096429c4f4ab085befa6a01'}
+  - {seq: 1, filename: KR6n0140_001.yaml, hash: 'sha256:af5cdc91877e105438af34998865c0ca2151c8fb24d2a8dc225e5a86f65a9c06'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0140_000.markers.yaml, hash: 'sha256:7262971c78757089fd154fffd2bf172b72d46c776850fad10982ca81157e99d2'}
+  - {seq: 1, role: markers, filename: assets/KR6n0140_001.markers.yaml, hash: 'sha256:cf8e033f833e9be20afdcc4070ae3c52ae2628f0dca0ca0571c3a2667fa3004d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6n0140_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 898-A 八識論義序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 26169
+  label: 唐玄奘法師八識規矩母頌
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-1
+    span:
+    - body
+    - 23
+    - 23
+  label: 歸敬請加
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-2
+    span:
+    - body
+    - 97
+    - 97
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-3
+    span:
+    - body
+    - 626
+    - 626
+  label: 第一五識頌中又分為二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-4
+    span:
+    - body
+    - 648
+    - 648
+  label: 初頌凡情
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-5
+    span:
+    - body
+    - 9725
+    - 9725
+  label: 次頌聖果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-6
+    span:
+    - body
+    - 12193
+    - 12193
+  label: 第二六識頌中又分為二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-7
+    span:
+    - body
+    - 12215
+    - 12215
+  label: 初頌凡情
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-8
+    span:
+    - body
+    - 16940
+    - 16940
+  label: 次頌無漏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-9
+    span:
+    - body
+    - 17536
+    - 17536
+  label: 第三七識頌中又分為二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-10
+    span:
+    - body
+    - 17558
+    - 17558
+  label: 初頌凡情
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-11
+    span:
+    - body
+    - 19283
+    - 19283
+  label: 次頌聖果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-12
+    span:
+    - body
+    - 19871
+    - 19871
+  label: 第四八識頌中又分為二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-13
+    span:
+    - body
+    - 19893
+    - 19893
+  label: 初頌凡情
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-14
+    span:
+    - body
+    - 22063
+    - 22063
+  label: 次頌聖中聖果章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-15
+    span:
+    - body
+    - 22805
+    - 22805
+  label: No. 898-B 八識總論破迷成智性後䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-16
+    span:
+    - body
+    - 23764
+    - 23764
+  label: No. 898-C
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-17
+    span:
+    - body
+    - 23784
+    - 23784
+  label: 初分五識意旨中又二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-18
+    span:
+    - body
+    - 23808
+    - 23808
+  label: 初頌凡情
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-19
+    span:
+    - body
+    - 23872
+    - 23872
+  label: 次頌聖果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-20
+    span:
+    - body
+    - 23896
+    - 23896
+  label: 二分六識意旨中又二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-21
+    span:
+    - body
+    - 23920
+    - 23920
+  label: 初頌凡情
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-22
+    span:
+    - body
+    - 23984
+    - 23984
+  label: 次頌聖果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-23
+    span:
+    - body
+    - 24008
+    - 24008
+  label: 三分七識意旨中又二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-24
+    span:
+    - body
+    - 24032
+    - 24032
+  label: 初頌凡情
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-25
+    span:
+    - body
+    - 24096
+    - 24096
+  label: 次頌聖果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-26
+    span:
+    - body
+    - 24120
+    - 24120
+  label: 四分八識意旨中又二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-27
+    span:
+    - body
+    - 24144
+    - 24144
+  label: 初頌凡情
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-28
+    span:
+    - body
+    - 24208
+    - 24208
+  label: 次頌無漏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-29
+    span:
+    - body
+    - 24232
+    - 24232
+  label: 總頌八識名數
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-30
+    span:
+    - body
+    - 24368
+    - 24368
+  label: 總頌八識轉智意旨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-31
+    span:
+    - body
+    - 24438
+    - 24438
+  label: No. 898-D
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-32
+    span:
+    - body
+    - 24438
+    - 24438
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-33
+    span:
+    - body
+    - 24811
+    - 24811
+  label: 次釋六無為法者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0140_X_001-mulu-34
+    span:
+    - body
+    - 25890
+    - 25890
+  label: No. 898-E 刻八識論義迴向意願(附)
+  type: mulu
+  level: 1
+hash: sha256:c1635d41ce90da1a4864869508d70917dcb98c12ce064d97f6cc10c59a1ae6f6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
