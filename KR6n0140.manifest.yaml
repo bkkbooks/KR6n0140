@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0140_000.yaml, hash: 'sha256:6fe2829858f336940521ff5c65809a61abe3b246f096429c4f4ab085befa6a01'}
-  - {seq: 1, filename: KR6n0140_001.yaml, hash: 'sha256:af5cdc91877e105438af34998865c0ca2151c8fb24d2a8dc225e5a86f65a9c06'}
+  - {seq: 0, filename: KR6n0140_000.yaml, hash: 'sha256:733b857a2edad5c22f53a9d3df249856c81993bb4aa99d28d941e4db3943989d'}
+  - {seq: 1, filename: KR6n0140_001.yaml, hash: 'sha256:da40801484d24f75c86808bcedd5278a2e21b178e35ab611159a2874b2209221'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0140_000.markers.yaml, hash: 'sha256:7262971c78757089fd154fffd2bf172b72d46c776850fad10982ca81157e99d2'}
-  - {seq: 1, role: markers, filename: assets/KR6n0140_001.markers.yaml, hash: 'sha256:cf8e033f833e9be20afdcc4070ae3c52ae2628f0dca0ca0571c3a2667fa3004d'}
+  - {seq: 0, role: markers, filename: assets/KR6n0140_000.markers.yaml, hash: 'sha256:5553810d1aaa6ab635c6d53133efbd2d13f4ed72e177167122295ea3ec40b34e'}
+  - {seq: 1, role: markers, filename: assets/KR6n0140_001.markers.yaml, hash: 'sha256:e354d2811ae029365063f0708572bbc51a1ea0850825e0c4d8e60e4c55aacb80'}
 table_of_contents:
 - ref:
     seq: 0
@@ -387,7 +387,4 @@ table_of_contents:
   label: No. 898-E 刻八識論義迴向意願(附)
   type: mulu
   level: 1
-hash: sha256:c1635d41ce90da1a4864869508d70917dcb98c12ce064d97f6cc10c59a1ae6f6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:78121208596801cbd7d32c5ba74a91b4781325189171495c7eec49027a02e82d
