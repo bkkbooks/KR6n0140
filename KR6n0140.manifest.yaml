@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0140_000.yaml, hash: 'sha256:6fe2829858f336940521ff5c65809a61abe3b246f096429c4f4ab085befa6a01'}
+  - {seq: 0, filename: KR6n0140_000.yaml, hash: 'sha256:49239b6f87216c0f3f5f8a3bcdd8063a8f61f79635d3af33a0039a0616a7d8c0'}
   - {seq: 1, filename: KR6n0140_001.yaml, hash: 'sha256:b9e73c55d5672ca6fb1b60381cfaf9dccb83a8a4646f4ffa1ed389d9c5d1fc8f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0140_000.markers.yaml, hash: 'sha256:110009ffe3aa5b46d60b08172cdccf85242db9acf55b06f73c783c8220eabb42'}
+  - {seq: 0, role: markers, filename: assets/KR6n0140_000.markers.yaml, hash: 'sha256:a4c151bb6dbcb5ebf27523b8371d426134b406bcbbee551856279f34f4e9bd28'}
   - {seq: 1, role: markers, filename: assets/KR6n0140_001.markers.yaml, hash: 'sha256:8ddb5ccd49db3b6d84838cb2ae79922677225806fd8eb12af93cb3c1a6da95fb'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6n0140_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 898-A 八識論義序
@@ -387,7 +387,7 @@ table_of_contents:
   label: No. 898-E 刻八識論義迴向意願(附)
   type: mulu
   level: 1
-hash: sha256:46578175d3ab1db0a86469e1c8f0499b4cb5890ccafd3fbd5e7a2f40dcb0f4fb
+hash: sha256:59667ac8baec23764101300c4ec834831fd5e80e53ecfc6766388802972e290e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
